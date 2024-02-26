@@ -1,4 +1,4 @@
-# 搭建ChatGPT、Gemini、通义千问反向代理
+# 1搭建ChatGPT、Gemini、通义千问反向代理
 only for 微信助手，突破gemini对区域的限制
 
 欢迎来到微信助手 ChatGPT 反向代理项目！这个仓库帮助你部署 ChatGPT / Gemini-pro / 通义千问 反向代理，使其能够与懒猫的微信助手插件的 ChatGPT 功能协同工作。
